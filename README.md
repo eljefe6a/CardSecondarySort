@@ -42,25 +42,24 @@ Desired Output
 We want a reducer call with all of the values for a single suit in sorted order.  The reducer calls should look like:
 
 
-R0
---
+####R0
 
 HEARTS,[1,3,5,8,9]
 
 
-R1
+####R1
 --
 
 DIAMONDS,[5,7,8]
 
 
-R2
+####R2
 --
 
 SPADES,[1,9,10]
 
 
-R3
+####R3
 --
 
 CLUBS,[3,5,9]
