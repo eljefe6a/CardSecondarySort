@@ -36,6 +36,8 @@ spades 1
 
 
 
+
+
 We want a reducer call with all of the values for a single suit in sorted order.  The reducer calls should look like:
 
 
