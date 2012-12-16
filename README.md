@@ -3,8 +3,8 @@ CardSecondarySort
 
 Hadoop Secondary Sort example using playing cards.  This code example uses the new API.
 
-Given the input:
-----------------
+Given Input
+-----------
 
 hearts 9
 
@@ -36,7 +36,8 @@ spades 1
 
 
 
-
+Desired Output
+--------------
 
 We want a reducer call with all of the values for a single suit in sorted order.  The reducer calls should look like:
 
