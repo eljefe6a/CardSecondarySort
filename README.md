@@ -9,30 +9,17 @@ Given Input
 hearts 9  
 spades 10  
 hearts 5  
-
-diamonds 5
-
-hearts 8
-
-hearts 3
-
-clubs 9
-
-hearts 1
-
-clubs 5
-
-clubs 3
-
-diamonds 7
-
-diamonds 8
-
-spades 9
-
-spades 1
-
-
+diamonds 5  
+hearts 8  
+hearts 3  
+clubs 9  
+hearts 1  
+clubs 5  
+clubs 3  
+diamonds 7  
+diamonds 8  
+spades 9  
+spades 1  
 
 Desired Output
 --------------
