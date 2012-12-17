@@ -7,6 +7,7 @@ Given Input
 -----------
 
 >hearts 9
+
 >spades 10
 
 hearts 5
