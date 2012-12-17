@@ -6,9 +6,9 @@ Hadoop Secondary Sort example using playing cards.  This code example uses the n
 Given Input
 -----------
 
-  hearts 9
-  spades 10
-  hearts 5
+hearts 9  
+spades 10  
+hearts 5  
 
 diamonds 5
 
